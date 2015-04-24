@@ -1,6 +1,10 @@
 # gina-ogc
 The public repo for documentation, tools and issue tracking of GINA's WMS, WFS, and WCS servers.
 
+This repo is focused primarily on the system architecture of GINA's OGC.  This is a good place for consumers of the system to submit bug reports or feature requests for the services.
+
+#
+
 The [Geographic Information Network of Alaska](http://gina.alaska.edu) uses many of the Open Geospatial Consortium (OGC) services to distribute geospatial data.  This is the public repository to help track issues related to those services. More details and documentation are available for these systems over at [docs.gina.alaska.edu/ogc/](http://docs.gina.alaska.edu/ogc/).
 
 A few of the ore prominent OGC service end points provided by GINA:
@@ -17,5 +21,4 @@ The system configuration for this is handled through GINA's Chef configuration m
 # [Issue Tracker](https://github.com/gina-alaska/gina-ogc/issues)
 
 The GINA OGC systems support a wide variety of projects and datasets.  Some of them are active and GINA is actively working with project funders to create or improve datasets that are distributed through the GINA systems.  Other datasets are from historical GINA projects and are now static datasets made available by GINA.  The issue tracker on this project is to help track problems with the OGC services related to datasets but can sometimes be used to track updates to the datasets themselves if it is an active project.
-
- [https://github.com/gina-alaska/gina-ogc/issues](https://github.com/gina-alaska/gina-ogc/issues)
+  [https://github.com/gina-alaska/gina-ogc/issues](https://github.com/gina-alaska/gina-ogc/issues)
