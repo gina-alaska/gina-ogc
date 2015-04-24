@@ -17,3 +17,5 @@ The system configuration for this is handled through GINA's Chef configuration m
 # [Issue Tracker](https://github.com/gina-alaska/gina-ogc/issues)
 
 The GINA OGC systems support a wide variety of projects and datasets.  Some of them are active and GINA is actively working with project funders to create or improve datasets that are distributed through the GINA systems.  Other datasets are from historical GINA projects and are now static datasets made available by GINA.  The issue tracker on this project is to help track problems with the OGC services related to datasets but can sometimes be used to track updates to the datasets themselves if it is an active project.
+
+ [https://github.com/gina-alaska/gina-ogc/issues](https://github.com/gina-alaska/gina-ogc/issues)
