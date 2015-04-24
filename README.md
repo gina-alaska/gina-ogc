@@ -1,7 +1,7 @@
 # gina-ogc
 The public repo for documentation, tools and issue tracking of GINA's WMS, WFS, and WCS servers.
 
-The [Geographic Information Network of Alaska](http://gina.alaska.edu) uses many of the Open Geospatial Consortium (OGC) services to distribute geospatial data.  This is the public repository to help track issues related to those services.
+The [Geographic Information Network of Alaska](http://gina.alaska.edu) uses many of the Open Geospatial Consortium (OGC) services to distribute geospatial data.  This is the public repository to help track issues related to those services. More details and documentation are available for these systems over at [docs.gina.alaska.edu/ogc/](http://docs.gina.alaska.edu/ogc/).
 
 A few of the ore prominent OGC service end points provided by GINA:
  * wms.alaskamapped.org/bdl
